@@ -1,0 +1,24 @@
+{
+    "produtos": [
+        {
+            "nome": "Computador",
+            "preco": 100,
+            "quant": 2
+        },
+        {
+            "nome": "Teclado",
+            "preco": 15,
+            "quant": 10
+        },
+        {
+            "nome": "Monitor",
+            "preco": 50,
+            "quant": 4
+        }
+    ],
+    "0": {
+        "nome": "Mouse",
+        "preco": 15,
+        "quantidade": 10
+    }
+}
